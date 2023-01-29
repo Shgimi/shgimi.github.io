@@ -20,20 +20,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>书籍</title>
+      <link href="/book/index.html"/>
+      <url>/book/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -53,6 +42,17 @@
     
     
     <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>galgame</title>
       <link href="/galgame/index.html"/>
       <url>/galgame/index.html</url>
@@ -64,9 +64,9 @@
     
     
     <entry>
-      <title>书籍</title>
-      <link href="/book/index.html"/>
-      <url>/book/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
